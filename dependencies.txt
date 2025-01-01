@@ -6,3 +6,4 @@ xautolock
 feh
 ttf-jetbrains-mono-nerd
 ttf-victor-mono-nerd
+tmux
