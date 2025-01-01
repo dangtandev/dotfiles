@@ -10,3 +10,10 @@ tmux
 neovim
 xclip
 fzf
+thunar
+gvfs
+thunar-archive-plugin
+thunar-media-tags-plugin
+thunar-volman
+tumbler
+ristretto
