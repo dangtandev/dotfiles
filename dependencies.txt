@@ -3,3 +3,4 @@ brightnessctl
 picom
 twmn-git
 xautolock
+feh
